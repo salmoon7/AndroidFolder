@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "39522686528",
+      "project_id": "gywde-e18a7",
+      "storage_bucket": "gywde-e18a7.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:39522686528:android:70acae86a7f3fcf04431a5",
+          "android_client_info": {
+            "package_name": "com.gywd.animation"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCRTQz2pryvA0NiGDTIRnRT-P_ZRG7f8uA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
